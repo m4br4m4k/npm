@@ -4,7 +4,8 @@
   "description": "practica de la clase de npm",
   "main": "dist/src/platzom.js",
   "scripts": {
-    "build": "babel src/platzom.js -d dist"
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
   "homepage": "https://github.com/m4br4m4k/npm#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1"
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
