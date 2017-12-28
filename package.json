@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "0.1.0",
+  "description": "practica de la clase de npm",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4br4m4k/npm.git"
+  },
+  "keywords": [
+    "npm",
+    "practica"
+  ],
+  "author": "“m4br4” <“ammd@stskill.com”> (“www.stskill.com”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m4br4m4k/npm/issues"
+  },
+  "homepage": "https://github.com/m4br4m4k/npm#readme"
+}
